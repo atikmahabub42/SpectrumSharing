@@ -1,0 +1,22 @@
+# data and results are not part of the repository
+data/
+results/
+smoke_test_run/
+*.h5
+*.npz
+*.npy
+*.pt
+*.pkl
+*.f16
+*.sigmf-data
+_frame_cache/
+parts_v2/
+_completed/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store

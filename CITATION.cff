@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the dataset below."
+title: "Sense, Forecast, Share: code for a lightweight federated spectrum-sharing framework"
+authors:
+  - family-names: Mahabub
+    given-names: Atik
+    affiliation: "Institut National de la Recherche Scientifique (INRS-EMT), Montreal, QC, Canada"
+  - family-names: Djerafi
+    given-names: Tarek
+    affiliation: "Institut National de la Recherche Scientifique (INRS-EMT), Montreal, QC, Canada"
+  - family-names: Vakili
+    given-names: Shervin
+    affiliation: "Institut National de la Recherche Scientifique (INRS-EMT), Montreal, QC, Canada"
+license: MIT
+keywords:
+  - dynamic spectrum sharing
+  - spectrum sensing
+  - spectrum occupancy forecasting
+  - federated learning
+  - real-world RF dataset
+preferred-citation:
+  type: conference-paper
+  title: "Sense, Forecast, Share: A Lightweight Federated Spectrum-Sharing Framework on a Real-World Mass-Gathering RF Dataset"
+  authors:
+    - family-names: Mahabub
+      given-names: Atik
+    - family-names: Djerafi
+      given-names: Tarek
+    - family-names: Vakili
+      given-names: Shervin
+  collection-title: "IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN) 2027 (submitted)"
+  year: 2026
+references:
+  - type: dataset
+    title: "A Real-World Multi-Band RF Dataset from a Mass Gathering Event: Spectrum Analysis Framework"
+    authors:
+      - family-names: Mahabub
+        given-names: Atik
+      - family-names: Vakili
+        given-names: Shervin
+    publisher:
+      name: IEEE DataPort
+    doi: 10.21227/f2rv-ms26
+    year: 2026
